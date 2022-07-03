@@ -1,5 +1,5 @@
 ## OUTPUT:
-![Alt Text]()
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
 
 # Movie-List-Project
 Create a movie list application using React's concepts you learned during previous lessons.

@@ -1,3 +1,6 @@
+## OUTPUT:
+![Alt Text](https://im3.ezgif.com/tmp/ezgif-3-9744470d45.gif)
+
 # Movie-List-Project
 Create a movie list application using React's concepts you learned during previous lessons.
 <ul> 

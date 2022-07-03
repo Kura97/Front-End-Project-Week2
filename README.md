@@ -1,5 +1,5 @@
 ## OUTPUT:
-![](https://im3.ezgif.com/tmp/ezgif-3-a1f3a924af.gif)
+![](https://i.imgur.com/H4hOo2e.gif))
 
 # Movie-List-Project
 Create a movie list application using React's concepts you learned during previous lessons.
